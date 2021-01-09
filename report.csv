@@ -1,0 +1,13 @@
+name,id,published_from,published_to,avg_content_length
+The Irish Times,the-irish-times,2019-09-03T05:00:00Z,2019-10-03T17:46:46Z,269
+ABC News,abc-news,2019-09-03T08:35:15Z,2019-10-03T17:48:40Z,263
+Reuters,reuters,2019-09-03T12:48:56Z,2019-10-03T17:47:25Z,270
+CBS News,cbs-news,2019-09-03T00:10:19Z,2019-10-03T17:35:36+00:00,122
+Business Insider,business-insider,2019-09-03T00:00:00Z,2019-10-03T17:47:46Z,257
+The New York Times,the-new-york-times,2019-09-03T06:59:04Z,2019-10-03T17:28:27Z,268
+BBC News,bbc-news,2019-09-03T00:58:01Z,2019-10-03T17:49:31Z,220
+The Wall Street Journal,the-wall-street-journal,2019-09-03T00:31:44Z,2019-10-03T15:51:12Z,243
+Newsweek,newsweek,2019-09-03T00:10:54Z,2019-10-03T13:51:23Z,274
+CNN,cnn,2019-09-03T06:07:39.2534378Z,2019-10-03T17:48:53Z,143
+Al Jazeera English,al-jazeera-english,2019-09-03T01:04:08Z,2019-10-03T17:08:50Z,255
+ESPN,espn,2019-09-03T10:55:00Z,2019-10-03T16:14:00Z,273
